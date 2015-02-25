@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FutsalJakarta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_booking">Booking</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_splash">Selamat Datang</string>
+
+</resources>
